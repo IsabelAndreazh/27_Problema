@@ -1,0 +1,50 @@
+/* Inserta tu código aqui */
+.inline{display: inline-block;}
+
+.pd-3{	padding: 3%;}
+.pd-1{	padding: 1%;}
+.pd-10{	padding: 10%;}
+.pd-20{	padding: 20%;}
+.pt-3{ padding-top: 3%;}
+.pt-1{ padding-top: 1%;}
+.pl-2{ padding-left: 2%;}
+.pl-5{ padding-left: 5%;}
+.pr-75{	padding-right: 75%;}
+.mt-0{margin-top: 0%;}
+.mt-3{margin-top: 3%;}
+.mr-10{margin-right: 10%;}
+.ml-3{margin-left: 3%;}
+.ml-5{margin-left: 9%;}
+.mr-3{margin-right: 3%;}
+.mb-0{margin-bottom: 0%;}
+.mt-0{margin-top: 0%;}
+.mg-3{margin:3%;}
+
+.text-white{color: white;}
+.text-gray{color: #BAB2B2;}
+
+.bg-gray{background-color: #E4E1E1;}
+.bg-gray2{background-color: gray;}
+.bg-gray3{background-color: #A3A1A1;}
+.bg-black{background-color: black;}
+
+a{	color:black;}
+.cajagris{
+	width: 60%;
+	padding: 2%;
+}
+#agenda{
+padding: 0%;
+margin-top: 3%;
+}
+.agenda{
+	margin-top: 3%;
+	width: 20%;
+	padding: 2%;
+}
+.subrayado{
+	text-decoration: underline;
+}
+.final{
+	border: 2px solid gray;
+}
